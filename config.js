@@ -1,6 +1,5 @@
 {
-  "token": "your_token_here",
-  "ownerId": "your_ID_here",
+  "ownerId": "376384142599782410",
   "bugReportChannelId": "bug_report_channel_ID_here",
   "feedbackChannelId": "feedback_channel_ID_here",
   "serverLogId": "server_log_ID_here",
